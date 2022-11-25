@@ -26,7 +26,7 @@ const Budget = ()=>{
             <ul>
                 <li><p>Budget: {budget}</p></li>
                 <input type="number"onChange={(event)=>{setBudget(event.target.value)}} placeholder="...add budget"/>
-                <li><button>Edit: </button></li>
+                <li><button>ADD: </button></li>
             </ul>
         </div>
         </form>

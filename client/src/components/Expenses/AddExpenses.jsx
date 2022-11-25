@@ -24,17 +24,17 @@ const AddExpense = ()=>{
         })
     }
     return(
-        <form onSubmit={onSubmit}>
         <div className="addexpense-container">
             <ExpenseList/>
             <h1>Add Expenses</h1>
             <ul>
                 <li><input type="text" onChange={(event)=>setName(event.target.value)} placeholder="..expense name" /></li>
                 <li><input type="number" onChange={(event)=>{setCost(event.target.value)}} placeholder="...expense" /></li>
-                <button>Add</button>
+                <form onSubmit={onSubmit}>
+                    <button>Add</button>
+                </form>
             </ul>
         </div>
-        </form>
     )
 }
 
