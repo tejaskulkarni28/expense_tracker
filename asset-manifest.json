@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/tejaskulkarni28/expense_tracker/static/css/main.31d6cfe0.css",
     "main.js": "/tejaskulkarni28/expense_tracker/static/js/main.7636288b.js",
     "index.html": "/tejaskulkarni28/expense_tracker/index.html",
     "main.7636288b.js.map": "/tejaskulkarni28/expense_tracker/static/js/main.7636288b.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
     "static/js/main.7636288b.js"
   ]
 }
