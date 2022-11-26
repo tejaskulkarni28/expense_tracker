@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/tejaskulkarni28/expense_tracker/static/js/main.7636288b.js",
-    "index.html": "/tejaskulkarni28/expense_tracker/index.html",
-    "main.7636288b.js.map": "/tejaskulkarni28/expense_tracker/static/js/main.7636288b.js.map"
+    "main.js": "/expense_tracker/static/js/main.7636288b.js",
+    "index.html": "/expense_tracker/index.html",
+    "main.7636288b.js.map": "/expense_tracker/static/js/main.7636288b.js.map"
   },
   "entrypoints": [
     "static/js/main.7636288b.js"
